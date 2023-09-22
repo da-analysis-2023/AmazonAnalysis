@@ -16,6 +16,6 @@ Projects 안에서 프로젝트 단위로 issue 확인할 예정입니다.
 | 이름   | Gitlab Username | ... |
 |--------|-----|-----|
 | 이상열 |syleeie||
-|  |||
-|  |||
-|  |||
+| 한승현 |seunghyeonhan||
+| 이소래 |soraelee||
+| 김하은 |hxxeun||
